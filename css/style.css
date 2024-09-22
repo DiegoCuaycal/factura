@@ -1,0 +1,174 @@
+.class0{
+    width: 400px;
+    height: 600px;
+    background-color: azure;
+    left: 35%;
+    text-align: center;
+    position: relative;
+}
+#numero
+{
+    right: 0;
+    top:90%;
+    color: #e00909;
+    position: absolute;
+    font-size: 110%;
+}
+.infoarriba
+{
+    border-bottom: 0;
+}
+#numerofactura{
+    font-size: small;
+}
+#facturainfo
+{
+    text-align: center;
+}
+#facturainfo2
+{
+    left: 0;
+    position:absolute;
+}
+#dir
+{
+    width: 90%;
+}
+#nombre
+{
+    width: 60%;
+}
+.class1
+{position: relative;
+    font: condensed 90% sans-serif;
+    color: rgb(26, 64, 179);
+    margin:0% 10% 0%;
+    top: -3%;
+    height: 85px;
+    width: 300px;
+    background-color: azure;
+}
+.class2
+{position: relative;
+    font: condensed 80% sans-serif;
+    color: rgb(26, 64, 179);
+    height: 35px;
+    width: 300px;
+    margin:0% 10% 0%;
+    border-radius: 3%;
+    border-color: #2910b9;
+    border-style: solid;
+    background-color: azure;
+    text-align: left;
+}
+.class2 input
+{
+    border-color: #2910b9;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    height: 20%;
+    font: condensed 99% sans-serif;
+    background-color: azure;
+    width: 52%;
+}
+.infoderecha
+{ 
+    text-align: right;
+    right: 0;
+    top:0%;
+    color: #2910b9;
+    position: absolute;
+    height: 50%;
+    padding: 3% 0.5% 0%;
+    background-color:transparent;
+}
+#telefono{
+    width: 59px;
+    font-size: 80%;
+    height: 45%;
+    
+}
+#fecha{
+    width: 59px;
+    font-size: 80%;
+    height: 45%;
+}
+#total {
+    border: 0;
+    border-radius: 5% !important;
+}
+.class1 p b
+{
+    text-align: left;
+}
+#info1{
+    text-align: left;
+}
+div{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);   
+}
+.tabla{
+    position: relative;
+    font: condensed 80% sans-serif;
+    color: rgb(26, 64, 179);
+    border-radius: 3%;
+    border:2px solid #2910b9;
+   width: 324px;
+   text-align: center;
+   border-spacing: 0;
+   left: 10%;
+}
+#descripcion
+{
+    width: 50%;
+}
+#cant{
+    width: 15%;
+}
+.unit
+{
+    border-left:2px solid #2910b9;
+}
+th, td {
+   
+   text-align: center;
+   vertical-align: top;
+  border-right: 2px solid #2910b9;
+  border-bottom: 2px solid #2910b9;
+   border-radius: 4%;
+ }
+ .firma
+ {
+border:0;
+
+ }
+ .class3{
+    position: relative;
+   width: 300px;
+    text-align:justify;
+    left: 10%;
+    font: condensed 45% sans-serif;
+    color: rgb(26, 64, 179);
+    background-color: azure;
+ }
+.class3 label{
+    font: 55% !important;
+    position:absolute;
+    right: 0;
+    top: 20%;
+ }
+
+header{
+    position: relative;
+    margin:0% 10% 0%;
+    text-align: center;
+    font-weight: 900;
+    font-size: 11px;
+    transform:scaleX(1.5);
+   color: rgb(44, 44, 166);
+   text-shadow: -0.16em 0.1em 0.1em rgba(65, 56, 169, 0.527)
+}
+
+
