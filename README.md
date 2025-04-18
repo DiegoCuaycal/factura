@@ -1,21 +1,20 @@
-# 🧾 Proyecto: Factura Talleres Serrano
+# 🧾 Project: Talleres Serrano Invoice
 
-Este proyecto consiste en el diseño de una **factura comercial** para **Talleres Serrano**, implementada utilizando **HTML** y **CSS**. El diseño busca replicar el formato y estilo de una factura real, incluyendo secciones como datos del cliente, detalle de productos/servicios, y cálculo de impuestos.
+This project consists of designing a **commercial invoice** for **Talleres Serrano**, implemented using **HTML** and **CSS**. The design aims to replicate the format and style of a real invoice, including sections such as customer information, product/service details, and tax calculations.
 
-## 🚀 Tecnologías Utilizadas
+## 🚀 Technologies Used
 - **HTML5**
 - **CSS3**
 
-## 🎯 Características
-- Diseño similar a facturas profesionales reales.
-- Secciones organizadas: cliente, productos/servicios, impuestos y totales.
-- Estilo visual sencillo y claro para impresión o uso digital.
+## 🎯 Features
+- Design similar to professional real-world invoices.
+- Organized sections: customer, products/services, taxes, and totals.
+- Clean and clear visual style for both printing and digital use.
 
-## 🌐 Proyecto en línea
-El proyecto se encuentra desplegado en **Netlify** y puedes verlo aquí:  
-👉 [Ver Factura Talleres Serrano](https://talleres-serrano.netlify.app/)  
+## 🌐 Online Project
+The project is deployed on **Netlify** and can be viewed here:  
+👉 [View Talleres Serrano Invoice](https://talleres-serrano.netlify.app/)
 
-
-## 📂 Uso
-Este proyecto puede ser utilizado como base para sistemas de facturación o como referencia para crear formatos de documentos impresos en web.
+## 📂 Usage
+This project can be used as a base for billing systems or as a reference for creating printable document formats on the web.
 
